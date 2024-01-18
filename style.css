@@ -5,12 +5,7 @@ html,body {
   background: white;
   margin: 0px;
 }
-#header {
-  background-color: pink;
-  text-align: center;
-  padding: 20px;
-  color: red;
-}
+
 button{
   background-color: white;
 }
